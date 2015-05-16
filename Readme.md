@@ -12,5 +12,5 @@ Step 2: Run the below command to give permission for the wallpaper changer comma
 		chmod u+x /path/to/BingWallpaperChanger.command
 The same command is present in "Script permission command.txt" file
 
-Step 3: You can either double click to run the BingWallpaperChanger.command or put it in your startup items
+Step 3: You can either double click to run the BingWallpaperChanger.command or put it in your login items
 
